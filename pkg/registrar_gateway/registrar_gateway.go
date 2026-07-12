@@ -16,8 +16,8 @@ import (
 	"github.com/threefoldtech/zbus"
 	zos4Pkg "github.com/threefoldtech/zos4/pkg"
 	"github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg"
-	"github.com/threefoldtech/zosbase/pkg/environment"
+	"github.com/threefoldtech/zos_base/pkg"
+	"github.com/threefoldtech/zos_base/pkg/environment"
 )
 
 const AuthHeader = "X-Auth"

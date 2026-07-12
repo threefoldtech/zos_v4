@@ -8,7 +8,7 @@ import (
 	"context"
 	zbus "github.com/threefoldtech/zbus"
 	pkg1 "github.com/threefoldtech/zos4/pkg"
-	pkg "github.com/threefoldtech/zosbase/pkg"
+	pkg "github.com/threefoldtech/zos_base/pkg"
 )
 
 type IdentityManagerStub struct {

@@ -12,9 +12,9 @@ import (
 	"github.com/threefoldtech/zbus"
 	registrar "github.com/threefoldtech/zos4/pkg/registrar_gateway"
 	"github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg/environment"
-	"github.com/threefoldtech/zosbase/pkg/utils"
-	zosapi "github.com/threefoldtech/zosbase/pkg/zos_api_light"
+	"github.com/threefoldtech/zos_base/pkg/environment"
+	"github.com/threefoldtech/zos_base/pkg/utils"
+	zosapi "github.com/threefoldtech/zos_base/pkg/zos_api_light"
 	"github.com/urfave/cli/v2"
 )
 

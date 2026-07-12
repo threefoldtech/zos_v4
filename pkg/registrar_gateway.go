@@ -6,7 +6,7 @@ import (
 	substrateTypes "github.com/centrifuge/go-substrate-rpc-client/v4/types"
 	substrate "github.com/threefoldtech/tfchain/clients/tfchain-client-go"
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
-	"github.com/threefoldtech/zosbase/pkg"
+	"github.com/threefoldtech/zos_base/pkg"
 )
 
 //go:generate zbusc -module api-gateway -version 0.0.1 -name api-gateway -package stubs github.com/threefoldtech/zos4/pkg+RegistrarGateway stubs/registrar-gateway.go

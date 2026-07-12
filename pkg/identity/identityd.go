@@ -6,14 +6,14 @@ import (
 	"github.com/rs/zerolog/log"
 
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
-	"github.com/threefoldtech/zosbase/pkg/crypto"
-	"github.com/threefoldtech/zosbase/pkg/identity/store"
+	"github.com/threefoldtech/zos_base/pkg/crypto"
+	"github.com/threefoldtech/zos_base/pkg/identity/store"
 
 	"github.com/pkg/errors"
 	zos4pkg "github.com/threefoldtech/zos4/pkg"
-	"github.com/threefoldtech/zosbase/pkg"
-	"github.com/threefoldtech/zosbase/pkg/environment"
-	"github.com/threefoldtech/zosbase/pkg/identity"
+	"github.com/threefoldtech/zos_base/pkg"
+	"github.com/threefoldtech/zos_base/pkg/environment"
+	"github.com/threefoldtech/zos_base/pkg/identity"
 )
 
 type identityManager struct {

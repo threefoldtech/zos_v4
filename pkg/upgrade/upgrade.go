@@ -22,12 +22,12 @@ import (
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
 	"github.com/threefoldtech/zbus"
 	"github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg/app"
-	"github.com/threefoldtech/zosbase/pkg/environment"
-	"github.com/threefoldtech/zosbase/pkg/kernel"
-	"github.com/threefoldtech/zosbase/pkg/upgrade"
-	"github.com/threefoldtech/zosbase/pkg/upgrade/hub"
-	"github.com/threefoldtech/zosbase/pkg/zinit"
+	"github.com/threefoldtech/zos_base/pkg/app"
+	"github.com/threefoldtech/zos_base/pkg/environment"
+	"github.com/threefoldtech/zos_base/pkg/kernel"
+	"github.com/threefoldtech/zos_base/pkg/upgrade"
+	"github.com/threefoldtech/zos_base/pkg/upgrade/hub"
+	"github.com/threefoldtech/zos_base/pkg/zinit"
 
 	"github.com/rs/zerolog/log"
 )

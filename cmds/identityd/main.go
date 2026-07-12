@@ -12,16 +12,16 @@ import (
 	"github.com/pkg/errors"
 	"github.com/threefoldtech/zos4/pkg/stubs"
 	"github.com/threefoldtech/zos4/pkg/upgrade"
-	"github.com/threefoldtech/zosbase/pkg/app"
+	"github.com/threefoldtech/zos_base/pkg/app"
 
 	"github.com/threefoldtech/zos4/pkg"
 	"github.com/threefoldtech/zos4/pkg/identity"
-	"github.com/threefoldtech/zosbase/pkg/environment"
+	"github.com/threefoldtech/zos_base/pkg/environment"
 
 	"github.com/rs/zerolog/log"
 	"github.com/threefoldtech/zbus"
-	"github.com/threefoldtech/zosbase/pkg/utils"
-	"github.com/threefoldtech/zosbase/pkg/version"
+	"github.com/threefoldtech/zos_base/pkg/utils"
+	"github.com/threefoldtech/zos_base/pkg/version"
 )
 
 const (

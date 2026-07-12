@@ -11,11 +11,11 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
 	"github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg"
-	"github.com/threefoldtech/zosbase/pkg/events"
-	"github.com/threefoldtech/zosbase/pkg/network/bridge"
-	"github.com/threefoldtech/zosbase/pkg/power"
-	"github.com/threefoldtech/zosbase/pkg/zinit"
+	"github.com/threefoldtech/zos_base/pkg"
+	"github.com/threefoldtech/zos_base/pkg/events"
+	"github.com/threefoldtech/zos_base/pkg/network/bridge"
+	"github.com/threefoldtech/zos_base/pkg/power"
+	"github.com/threefoldtech/zos_base/pkg/zinit"
 )
 
 type PowerServer struct {

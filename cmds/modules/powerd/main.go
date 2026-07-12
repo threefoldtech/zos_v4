@@ -10,10 +10,10 @@ import (
 	"github.com/threefoldtech/zbus"
 	"github.com/threefoldtech/zos4/pkg/power"
 	zos4stub "github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg/environment"
-	"github.com/threefoldtech/zosbase/pkg/events"
-	"github.com/threefoldtech/zosbase/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg/utils"
+	"github.com/threefoldtech/zos_base/pkg/environment"
+	"github.com/threefoldtech/zos_base/pkg/events"
+	"github.com/threefoldtech/zos_base/pkg/stubs"
+	"github.com/threefoldtech/zos_base/pkg/utils"
 	"github.com/urfave/cli/v2"
 )
 

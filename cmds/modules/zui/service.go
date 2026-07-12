@@ -8,7 +8,7 @@ import (
 	"github.com/threefoldtech/zbus"
 
 	zos4stubs "github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zosbase/pkg/stubs"
+	"github.com/threefoldtech/zos_base/pkg/stubs"
 )
 
 const (

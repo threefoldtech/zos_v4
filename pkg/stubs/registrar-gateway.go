@@ -10,7 +10,7 @@ import (
 	tfchainclientgo "github.com/threefoldtech/tfchain/clients/tfchain-client-go"
 	client "github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
 	zbus "github.com/threefoldtech/zbus"
-	pkg "github.com/threefoldtech/zosbase/pkg"
+	pkg "github.com/threefoldtech/zos_base/pkg"
 	"time"
 )
 
