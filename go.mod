@@ -1,4 +1,4 @@
-module github.com/threefoldtech/zos4
+module github.com/threefoldtech/zos_v4
 
 go 1.23.0
 

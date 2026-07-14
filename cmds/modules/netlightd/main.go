@@ -20,7 +20,7 @@ import (
 	"github.com/cenkalti/backoff/v3"
 	"github.com/rs/zerolog/log"
 	"github.com/threefoldtech/zbus"
-	"github.com/threefoldtech/zos4/pkg/stubs"
+	"github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/netlight/bootstrap"
 	"github.com/threefoldtech/zosbase/pkg/utils"
 )

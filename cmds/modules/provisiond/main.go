@@ -24,14 +24,14 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	zos4stubs "github.com/threefoldtech/zos4/pkg/stubs"
+	zos4stubs "github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/utils"
 
 	"github.com/rs/zerolog/log"
 
 	"github.com/threefoldtech/zbus"
-	"github.com/threefoldtech/zos4/pkg/provision"
+	"github.com/threefoldtech/zos_v4/pkg/provision"
 )
 
 const (

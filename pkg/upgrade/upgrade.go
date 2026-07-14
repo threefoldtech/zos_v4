@@ -21,7 +21,7 @@ import (
 	"github.com/threefoldtech/0-fs/storage"
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
 	"github.com/threefoldtech/zbus"
-	"github.com/threefoldtech/zos4/pkg/stubs"
+	"github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/app"
 	"github.com/threefoldtech/zosbase/pkg/environment"
 	"github.com/threefoldtech/zosbase/pkg/kernel"

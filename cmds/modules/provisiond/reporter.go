@@ -13,7 +13,7 @@ import (
 	"github.com/rs/zerolog/log"
 	substrate "github.com/threefoldtech/tfchain/clients/tfchain-client-go"
 	"github.com/threefoldtech/zbus"
-	zos4stubs "github.com/threefoldtech/zos4/pkg/stubs"
+	zos4stubs "github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg"
 	gridtypes "github.com/threefoldtech/zosbase/pkg/gridtypes"
 	"github.com/threefoldtech/zosbase/pkg/rrd"

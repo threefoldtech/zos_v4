@@ -8,7 +8,7 @@ import (
 
 	lru "github.com/hashicorp/golang-lru"
 	"github.com/pkg/errors"
-	"github.com/threefoldtech/zos4/pkg/stubs"
+	"github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/provision"
 )
 

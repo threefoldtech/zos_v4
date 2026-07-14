@@ -9,8 +9,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 
-	registrar "github.com/threefoldtech/zos4/pkg/registrar_light"
-	zos4stubs "github.com/threefoldtech/zos4/pkg/stubs"
+	registrar "github.com/threefoldtech/zos_v4/pkg/registrar_light"
+	zos4stubs "github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/app"
 	"github.com/threefoldtech/zosbase/pkg/capacity"
 	"github.com/threefoldtech/zosbase/pkg/environment"
