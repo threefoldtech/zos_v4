@@ -7,7 +7,7 @@ import (
 	"github.com/gizak/termui/v3/widgets"
 	"github.com/threefoldtech/zbus"
 
-	zos4stubs "github.com/threefoldtech/zos4/pkg/stubs"
+	zos4stubs "github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/stubs"
 )
 

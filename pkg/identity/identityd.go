@@ -10,7 +10,7 @@ import (
 	"github.com/threefoldtech/zosbase/pkg/identity/store"
 
 	"github.com/pkg/errors"
-	zos4pkg "github.com/threefoldtech/zos4/pkg"
+	zos4pkg "github.com/threefoldtech/zos_v4/pkg"
 	"github.com/threefoldtech/zosbase/pkg"
 	"github.com/threefoldtech/zosbase/pkg/environment"
 	"github.com/threefoldtech/zosbase/pkg/identity"

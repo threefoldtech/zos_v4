@@ -9,7 +9,7 @@ import (
 	"github.com/threefoldtech/zosbase/pkg"
 )
 
-//go:generate zbusc -module api-gateway -version 0.0.1 -name api-gateway -package stubs github.com/threefoldtech/zos4/pkg+RegistrarGateway stubs/registrar-gateway.go
+//go:generate zbusc -module api-gateway -version 0.0.1 -name api-gateway -package stubs github.com/threefoldtech/zos_v4/pkg+RegistrarGateway stubs/registrar-gateway.go
 
 type RegistrarGateway interface {
 	CreateTwin(relay []string, rmbEncKey string) (client.Account, error)

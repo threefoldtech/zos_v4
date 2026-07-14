@@ -10,12 +10,12 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/threefoldtech/zos4/pkg/stubs"
-	"github.com/threefoldtech/zos4/pkg/upgrade"
+	"github.com/threefoldtech/zos_v4/pkg/stubs"
+	"github.com/threefoldtech/zos_v4/pkg/upgrade"
 	"github.com/threefoldtech/zosbase/pkg/app"
 
-	"github.com/threefoldtech/zos4/pkg"
-	"github.com/threefoldtech/zos4/pkg/identity"
+	"github.com/threefoldtech/zos_v4/pkg"
+	"github.com/threefoldtech/zos_v4/pkg/identity"
 	"github.com/threefoldtech/zosbase/pkg/environment"
 
 	"github.com/rs/zerolog/log"

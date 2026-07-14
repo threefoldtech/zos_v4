@@ -14,8 +14,8 @@ import (
 	substrate "github.com/threefoldtech/tfchain/clients/tfchain-client-go"
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
 	"github.com/threefoldtech/zbus"
-	zos4Pkg "github.com/threefoldtech/zos4/pkg"
-	"github.com/threefoldtech/zos4/pkg/stubs"
+	zos4Pkg "github.com/threefoldtech/zos_v4/pkg"
+	"github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg"
 	"github.com/threefoldtech/zosbase/pkg/environment"
 )

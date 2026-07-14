@@ -7,7 +7,7 @@ package stubs
 import (
 	"context"
 	zbus "github.com/threefoldtech/zbus"
-	pkg1 "github.com/threefoldtech/zos4/pkg"
+	pkg1 "github.com/threefoldtech/zos_v4/pkg"
 	pkg "github.com/threefoldtech/zosbase/pkg"
 )
 

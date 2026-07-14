@@ -12,8 +12,8 @@ import (
 
 	"github.com/rs/zerolog/log"
 	"github.com/threefoldtech/zbus"
-	registrar "github.com/threefoldtech/zos4/pkg/registrar_light"
-	zos4Stubs "github.com/threefoldtech/zos4/pkg/stubs"
+	registrar "github.com/threefoldtech/zos_v4/pkg/registrar_light"
+	zos4Stubs "github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/app"
 	"github.com/threefoldtech/zosbase/pkg/environment"
 	"github.com/threefoldtech/zosbase/pkg/stubs"

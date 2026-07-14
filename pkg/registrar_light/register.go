@@ -11,7 +11,7 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/threefoldtech/tfgrid4-sdk-go/node-registrar/client"
 	"github.com/threefoldtech/zbus"
-	zos4Stubs "github.com/threefoldtech/zos4/pkg/stubs"
+	zos4Stubs "github.com/threefoldtech/zos_v4/pkg/stubs"
 	"github.com/threefoldtech/zosbase/pkg/environment"
 	"github.com/threefoldtech/zosbase/pkg/geoip"
 	gridtypes "github.com/threefoldtech/zosbase/pkg/gridtypes"
